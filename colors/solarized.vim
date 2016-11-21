@@ -287,7 +287,7 @@ elseif g:solarized_termcolors != 256 && &t_Co >= 16
     let s:base01      = "243"
     let s:base00      = "249"
     let s:base0       = "246"
-    let s:base1       = "14"
+    let s:base1       = "245"
     let s:base2       = "187"
     let s:base3       = "230"
     " let s:yellow      = "3"
